@@ -1,1 +1,3 @@
-# Geron_Book
+# Hands-On Machine Learning with Scikit-Learn and TensorFlow
+
+This repositort contains solutions to Aurélien Géron's book on machine learning [Hands-On Machine Learning with Scikit-Learn and TensorFlow 2nd Edition](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=pd_sbs_14_t_0/136-5237585-3237864?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=4c87f0c2-6ba2-4576-8c7c-e8a9144180ba&pd_rd_w=IB24C&pd_rd_wg=DPrQr&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=9T888Y835HAC1VFMA19H&psc=1&refRID=9T888Y835HAC1VFMA19H). All solutions are constructed using Jupyter Notebooks.
